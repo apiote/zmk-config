@@ -57,7 +57,7 @@
             bindings = <
 &mt LEFT_ALT Q    &kp W  &kp F      &kp P                 &kp B             &kp J           &kp L          &kp U      &kp Y    &kp PERIOD
 &kp A             &kp R  &lt NUM S  &lt NAV T             &kp G             &kp M           &lt FN N       &lt SYM E  &kp I    &kp O
-&mt LEFT_SHIFT X  &kp C  &kp D      &kp V                 &kp Z             &kp K           &kp H          &kp COMMA  &sl DIA  &mt CAPS FSLH
+&mt LEFT_SHIFT Z  &kp X  &kp C      &kp D                 &kp V             &kp K           &kp H          &kp COMMA  &sl DIA  &mt CAPS FSLH
                                     &mt LEFT_CONTROL TAB  &mt LGUI SPACE    &mt LSHIFT RET  &kp BACKSPACE
             >;
         };
@@ -111,7 +111,7 @@
             bindings = <
 &trans     &trans     &trans     &trans  &trans       &trans  &kp RA(L)  &trans     &trans  &trans
 &kp RA(A)  &trans     &kp RA(S)  &trans  &trans       &trans  &kp RA(N)  &kp RA(E)  &trans  &kp RA(O)
-&kp RA(X)  &kp RA(C)  &trans     &trans  &kp RA(Z)    &trans  &trans     &trans     &trans  &trans
+&kp RA(Z)  &kp RA(X)  &kp RA(C)  &trans  &trans       &trans  &trans     &trans     &trans  &trans
                                  &trans  &trans       &trans  &trans
             >;
         };
